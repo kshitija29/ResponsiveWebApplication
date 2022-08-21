@@ -1,0 +1,50 @@
+.jumbotron{
+text-align: center;
+background:none;
+}
+.sectionLight{
+background-color: rgb(182, 179, 179);
+padding: 2rem;
+
+}
+.SectionDark{
+    background-color: #cccc;
+    padding: 2rem;
+
+}
+.img-fluid.SectionDarkImg{
+border-radius: 30%;
+width:60px; 
+height:450px;
+
+}
+.img-fluid.SectionDarkImg2{
+width: 200px;
+height: 200px;
+border: solid black 1px;
+
+}
+.btn.coolStuffBtn{
+background-color: red;
+border: rgba(197, 117, 117, 0.8) solid;
+color: #ffffff;
+display: block;
+text-align: center;
+margin: auto;
+}
+
+h5.modal-title{
+    margin:auto;
+}
+/* .sectionLight.row1{
+   margin-left: 25px  ;
+   margin-right: 15px;
+} */
+.btnCenter{
+    display: block;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom:20px;
+    width: 75%;
+}
