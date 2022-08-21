@@ -1,6 +1,9 @@
 # ResponsiveWebApplication-
-Using
-html,css,Bootstrap4
+Technologies:
+-HTML
+-CSS 
+-BOOTSTRAP 
+
 Link-
 https://kshitija29.github.io/ResponsiveWebApplication/ 
 
