@@ -10,11 +10,12 @@ padding: 2rem;
 .SectionDark{
     background-color: #cccc;
     padding: 2rem;
+    
 
 }
 .img-fluid.SectionDarkImg{
-border-radius: 30%;
-width:60px; 
+border-radius: 30%; 
+width:80px; 
 height:450px;
 
 }
@@ -47,4 +48,30 @@ h5.modal-title{
     margin-top: 15px;
     margin-bottom:20px;
     width: 75%;
+}
+footer{
+    background-color: #cccc;
+}
+.footerImg{
+    padding: 10px;
+    width: 50%;
+height: 40%;
+border-radius: 40%;
+}
+.fa{
+    margin: 10px;
+}
+.fa-facebook-square{
+    color: #3b5998;
+
+}
+.fa-google-plus-square{
+    color: #c32f10;
+}
+.fa-instagram{
+    color: #ffffff;
+}
+
+.socialWrapper{
+    margin: auto;
 }
