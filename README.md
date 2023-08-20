@@ -5,5 +5,5 @@ Technologies:
 -BOOTSTRAP 
 
 Link-
-https://github.com/HorizonK29/ResponsiveWebApplication/index.html
+https://horizonk29.github.io/ResponsiveWebApplication/
 
